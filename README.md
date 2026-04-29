@@ -27,9 +27,7 @@ A collection of implementations developed as part of a Data Structures course.
 ├── BinaryTreeIterationWithoutParentNodes.h
 ├── BubbleSort.h
 ├── CountingSort.h
-├── IterativeMergeSort.java
 ├── IterativeMergeSort.h
-├── LinkedLinearList.java
 ├── LinkedLinearList.h
 └── ThreeWayPartition.h
 ```
@@ -42,9 +40,7 @@ A collection of implementations developed as part of a Data Structures course.
 - Partitioning Techniques
 
 ## Language
-Implemented in:
-1. Java
-2. C++
+Implemented in: C++
 
 ## Purpose
 This repository is intended for:
